@@ -1,5 +1,9 @@
 # 💫 About Me:
-🌱 Striving to be a sharper coder, wielding NestJS for backends, Next.js for frontends, and the almighty AWS cloud to tie it all together. On the never-ending quest for clean code, scalable apps, and that perfect deploy. 🚀<br><br>⚡ Fun fact, I was born at the back of Truck-kun 🚚💨 Reverse Isekai
+🌱 A Filipino learning and practicing to become a sharper coder, wielding NestJS for backends, Next.js for frontends, and the almighty AWS cloud to tie it all together. Always on the never-ending quest for clean code, scalable apps, and that perfect deploy. 🚀
+
+⚡ Fun fact: I was born at the back of Truck-kun! 🚚💨 Talk about a reverse isekai!
+
+💼 Open to side work opportunities to further hone my skills!
 
 
 ## 🌐 Socials:
