@@ -1,8 +1,7 @@
 # 💫 About Me:
 
-<a href="https://app.daily.dev/jaspherb"><img src="https://api.daily.dev/devcards/v2/briuzRToQKcn8ms8ulyhE.png?type=default&r=9om" width="356" alt="Jaspher's Dev Card"/></a>
-
-
+<a href="https://app.daily.dev/jaspherb"><img src="https://api.daily.dev/devcards/v2/briuzRToQKcn8ms8ulyhE.png?type=wide&r=9om" width="652" alt="Jaspher's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/jaspherb"><img src="https://api.daily.dev/devcards/v2/briuzRToQKcn8ms8ulyhE.png?type=default&r=9om" width="356" alt="Jaspher's Dev Card"/></a> -->
 🌱 A Filipino learning and practicing to become a sharper coder, wielding NestJS for backends, Next.js for frontends, and the almighty AWS cloud to tie it all together. Always on the never-ending quest for clean code, scalable apps, and that perfect deploy. 🚀
 
 ⚡ Fun fact: I was born at the back of Truck-kun! 🚚💨 Talk about a reverse isekai!
